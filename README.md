@@ -7,6 +7,7 @@ Developed for AMS 487 at Stony Brook University under the supervision of Prof. A
 ## Tech Stack and Dependencies
 * Language: R
 * Core Libraries: shiny, temStaR (v0.90), quantmod, nloptr
+* Quantitative Model: [temStaR](https://github.com/aaron9011/temStaR-v0.90) (Multivariate Normal Tempered Stable models by Prof. Aaron Kim)
 
 ## key Features
 * Fits empirical historical stock data using heavy-tailed MNTS distributions.
